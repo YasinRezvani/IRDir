@@ -1,6 +1,7 @@
 # IRDir - Iranian Directory Enumerator
 
 **A specialized directory and path enumeration tool optimized for Iranian (.ir) domains and Persian websites.**
+<br><br>
 <img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/fdf5d793-32ec-4cc9-93e5-9953d78bedd0" />
 
 ## Description
@@ -29,6 +30,10 @@ Key highlights:
 ## Quick Demo
 
 The video below demonstrates IRDir's complete workflow for enumerating directories on an Iranian (.ir) domain:
+
+
+https://github.com/user-attachments/assets/ca89f0bf-0b18-4119-a77a-fe520f0f9008
+
 
 ## Installation
 
